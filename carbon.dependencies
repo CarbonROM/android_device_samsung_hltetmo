@@ -44,6 +44,7 @@
   {
     "repository": "proprietary_vendor_samsung",
     "target_path": "vendor/samsung",
-    "remote": "tm"
+    "remote": "tm",
+    "revision": "cm-12.1"
   }
 ]
