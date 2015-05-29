@@ -30,7 +30,7 @@
     "revision": "cm-12.1"
   },
   {
-    "repository": android_device_samsung_qcom-common",
+    "repository": "android_device_samsung_qcom-common",
     "target_path": "device/samsung/qcom-common",
     "remote": "cm",
     "revision": "cm-12.1"
